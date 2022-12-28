@@ -1,5 +1,6 @@
 # india-states-game
 - It is a very interesting game which will help you remember all the states name in india.
+- In this game we store the states name and it's location in a CSV file.
 - After running the program one large blank india map will appear on the screen.
 - A pop up also appear on the screen to enter the states name.
 - After each correctly entered state pop up will refresh and blank ready for take next state name.
